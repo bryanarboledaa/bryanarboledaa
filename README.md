@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/rails%20-%23FF2D20.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img scr="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" />
 <p>
 
 <h2><samp>🔧 DEVELOPMENT TOOLS</samp></h2>

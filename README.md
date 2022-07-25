@@ -21,7 +21,6 @@
 <h2><samp>💪 MOST USED LANGUAGES</samp></h2>
 
 <p style="padding: 0px 20px">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Ruby%20-C21325?logo=ruby&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/rails%20-%23FF2D20.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 </p>
